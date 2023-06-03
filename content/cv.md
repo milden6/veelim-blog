@@ -6,7 +6,7 @@ title: "CV"
 Software and ML engineer
 
 [Email](mailto:milden6@gmail.com) | [Website](https://milden6.github.io/veelim-blog/) | [LinkedIn](https://www.linkedin.com/in/daniil-mileev) | [GitHub](https://github.com/milden6)\
-You can get a pdf file with my CV [here](/CV.pdf)
+You can get a pdf file with my CV [here](/veelim-blog/CV.pdf)
 ## Work experience
 
 **Go developer and ML Engineer in the number 1 e-commerce platform in Russia**\
