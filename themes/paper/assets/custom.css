@@ -1,0 +1,23 @@
+/* Place custom css here. */
+.post-description {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.copy-code {
+    display: none;
+    position: absolute;
+    top: auto;
+    right: 40px;
+    color: rgba(255, 255, 255, 0.8);
+    background: rgba(78, 78, 78, 0.8);
+    border-radius: 8px;
+    padding: 0 5px;
+    font-size: 14px;
+    user-select: none;
+}
+
+div.highlight:hover .copy-code,
+pre:hover .copy-code {
+    display: block;
+}
